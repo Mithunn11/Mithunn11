@@ -2,36 +2,58 @@
 
 ## 🌟 About Me
 - 🎓 Bachelor of Computer Applications (BCA) graduate from the University of Mysore.
-- 💻 Aspiring Java Developer passionate about building innovative solutions.
-- 🌐 Proficient in **Java**, **Spring Boot**, **SQL**, and **Web Development**.
-- 🚀 Currently exploring **Data Structures and Algorithms** and working on exciting projects like an **Online Bookstore Application**.
+- 💻 Aspiring Java Developer passionate about creating innovative solutions and learning new technologies.
+- 🌐 Currently focusing on **Java**, **Spring Boot**, and **Data Structures and Algorithms (DSA)**.
 
-## 🛠️ Tools & Technologies
-- **Languages**: Java, SQL
+---
+
+## 🛠️ Technical Skills
+- **Programming Languages**: Java, SQL
 - **Frameworks**: Spring Boot
-- **Tools**: Eclipse, Visual Studio Code, SourceTree, Postman, Maven, JIRA
+- **Tools**: Eclipse, Visual Studio Code, Maven, JIRA, Postman
 - **Platforms**: AWS (EC2), Git
 
-## 📂 Projects
-### [🌍 WebGIS-Based Tourism Application](https://github.com/Mithunn11/tourism-app)
-An interactive platform for exploring tourist destinations using GIS technologies.  
-**Tech Stack**: Java, Spring Boot, SQL
+---
 
-### 📚 [Online Bookstore Application](https://github.com/Mithunn11/bookstore-app) (In Progress)
-A full-stack web application for browsing, purchasing, and managing books online.  
-**Tech Stack**: Java, Spring Boot, SQL  
+## 📂 Projects in Progress
 
-### 🧮 [Java Calculator](https://github.com/Mithunn11/java-calculator)
-A simple calculator application demonstrating Java's object-oriented principles.  
-**Tech Stack**: Java  
+### 🌐 Online Bookstore Application
+- **Status**: Planning Phase  
+- **Description**: A Spring Boot application to manage books online with features such as:
+  - Search and filter functionality.
+  - User authentication.
+  - Shopping cart and checkout system.  
+
+---
+
+### 🧮 Java Calculator
+- **Status**: Development Phase  
+- **Description**: A calculator application to demonstrate Java's object-oriented principles.
+
+---
+
+### 📚 DSA Practice
+- **Status**: Active Practice  
+- **Description**: A collection of Data Structures and Algorithm problems solved in Java.
+
+---
+
+## 🚀 Goals
+1. Complete the **Online Bookstore Application** with full functionality.
+2. Build and publish beginner-friendly projects showcasing Java and Spring Boot skills.
+3. Contribute to open-source projects to expand my experience.
+
+---
 
 ## 📈 GitHub Stats
 ![Mithun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithunn11&show_icons=true&theme=radical)
 
+---
+
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/mithun-m-b0475b2b4)
 - [GitHub](https://github.com/Mithunn11)
-- Email: mithunm1220@gmail.com
+- Email: mithun.m@example.com (Replace with your email)
 
 ---
 
