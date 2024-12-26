@@ -32,12 +32,6 @@
 
 ---
 
-### 📚 DSA Practice
-- **Status**: Active Practice  
-- **Description**: A collection of Data Structures and Algorithm problems solved in Java.
-
----
-
 ## 🚀 Goals
 1. Complete the **Online Bookstore Application** with full functionality.
 2. Build and publish beginner-friendly projects showcasing Java and Spring Boot skills.
