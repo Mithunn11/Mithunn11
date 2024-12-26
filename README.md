@@ -31,7 +31,7 @@ A simple calculator application demonstrating Java's object-oriented principles.
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/mithun-m-b0475b2b4)
 - [GitHub](https://github.com/Mithunn11)
-- Email: mithun.m@example.com (Replace with your email)
+- Email: mithunm1220@gmail.com
 
 ---
 
